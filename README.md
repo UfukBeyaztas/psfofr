@@ -18,6 +18,6 @@ install.packages("devtools")
 library(devtools)
 install_github("UfukBeyaztas/psfofr")
 
-**Package manual
+**Package manual**
 Please see psfofr_1.0.pdf file for package manual.
 
