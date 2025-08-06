@@ -7,7 +7,7 @@
 It implements the **Penalized Spatial Two-Stage Least Squares (Pen2SLS)** estimator, coupling tensor-product B-splines with spatial autoregression to produce smooth, interpretable surfaces and reliable inference even under strong spatial dependence.
 
 ## Package manual
-Please see psfofr_1.0.pdf file for package manual.
+Please see psfofr_1.0.pdf file for the package manual.
 
 ---
 
