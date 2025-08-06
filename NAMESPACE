@@ -1,0 +1,15 @@
+export(
+"predict_sffr2SLS",
+"sff_dgp",
+"sffr_pen2SLS"
+)
+
+
+import(fda)
+import(MASS)
+import(Matrix)
+import(matrixStats)
+
+importFrom("stats", "rnorm", "cov", "pnorm", "qnorm", "quantile")
+importFrom("methods", "as")
+

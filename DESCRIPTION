@@ -1,0 +1,16 @@
+Package: psfofr
+Type: Package
+Title: Penalized Spatial Function-on-Function Regression Model
+Version: 1.0
+Depends: R (>= 3.5.0), fda, MASS, Matrix, matrixStats, methods
+LazyLoad: yes
+ByteCompile: TRUE
+Encoding: UTF-8
+Authors@R: c(
+	person("Ufuk", "Beyaztas", email="ufukbeyaztas@gmail.com", role=c("aut", "cre", "cph"), comment = c(ORCID = "0000-0002-5208-4950")),
+	person("Han Lin", "Shang", role="aut", comment = c(ORCID = "0000-0003-1769-6430")),
+	person("Gizel Bakicierler", "Sezer", role="aut", comment = c(ORCID = "0000-0002-1789-0842"))
+	)
+Maintainer: Ufuk Beyaztas <ufukbeyaztas@gmail.com>
+Description: Functions for implementing methods for penalized spatial function-on-function regression model.
+License: GPL-3
